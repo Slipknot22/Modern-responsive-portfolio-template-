@@ -1,56 +1,55 @@
-# 🚀 Portfólio Profissional - Desenvolvedor Front-End & Web3
+🚀 Professional Portfolio - Front-End & Web3 Developer
 
-Este é um template de portfólio moderno, responsivo e com design premium, ideal para desenvolvedores que desejam apresentar seus projetos de forma profissional.
+This is a modern, responsive portfolio template with a premium design, ideal for developers who want to showcase their projects professionally.
 
-## ✨ Funcionalidades
+✨ Features
 
-- Design moderno (Dark + Glassmorphism)
-- Totalmente responsivo
-- Menu mobile
-- Efeito de partículas (particles.js)
-- Seções organizadas:
-  - Início
-  - Sobre
-  - Serviços
-  - Projetos
-  - Habilidades
-- Fácil de editar
+Modern Design (Dark + Glassmorphism)
+Fully Responsive
+Mobile Navigation Menu
+Particles Effect (particles.js)
+Organized Sections:
+Home
+About
+Services
+Projects
+Skills
+Easy to Customize
 
-## 🛠️ Tecnologias
+🛠️ Technologies
 
-- HTML5
-- CSS3
-- JavaScript
-- Particles.js
-- Font Awesome
+HTML5
+CSS3
+JavaScript
+Particles.js
+Font Awesome
 
-## 📂 Como usar
+📂 How To Use
 
-1. Baixe os arquivos
-2. Abra o `index.html`
-3. Edite:
-   - Nome
-   - Experiência
-   - Projetos
-   - Imagens
+Download the files
+Open index.html
+Edit:
+Name
+Experience
+Projects
+Images
 
-## 📸 Personalização
+📸 Customization
 
-- Troque a imagem `img.png`
-- Edite textos nas seções
-- Adicione seus projetos
+Replace the img.png image
+Edit section texts
+Add your own projects
 
-## 📱 Responsivo
+📱 Responsive
 
-Funciona em:
-- Celulares
-- Tablets
-- Desktop
+Works perfectly on:
 
-## 📩 Contato
+Mobile Devices
+Tablets
+Desktop
 
-Caso precise de suporte ou personalização, entre em contato.
+📩 Contact
 
----
+If you need support or customization, feel free to get in touch.
 
-💡 Ideal para freelancers e desenvolvedores iniciantes.
+💡 Perfect for freelancers and beginner developers.
